@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ParinAcharyaGit
+- 👋 Hi, I’m Parin Acharya
 - 👀 I’m interested in pursuing an undergraduate degree in computer science
 - 🌱 I’m currently learning Python and Harvard's CS50
 - 💞️ I’m looking to collaborate on public projects
