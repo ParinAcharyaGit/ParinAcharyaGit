@@ -2,7 +2,7 @@
 -  I’m interested in applying AI/ML to drive innovation
 -  Feel free to reach out on my Linkedin
 -  Pronouns: He/Him
-- ⚡ Fun fact: Our brain produces an equivalent of 20 Watts of electricity, such is the fuel that drives world-class inventions!
+- ⚡ Fun fact: Our brain produces an equivalent of 20 Watts of electricity, the fuel that drives world-class inventions!
 
 <!---
 ParinAcharyaGit/ParinAcharyaGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
