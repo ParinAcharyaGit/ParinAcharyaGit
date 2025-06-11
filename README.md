@@ -11,11 +11,6 @@ You can click the Preview link to take a look at your changes.
     alt="Rian's GitHub stats" 
     height="150"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParinAcharyaGit&layout=compact&theme=tokyonight" 
-    alt="Top Languages" 
-    height="150"
-  />
 </p>
 
 ## ➡️ About Me
